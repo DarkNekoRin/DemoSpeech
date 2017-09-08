@@ -1,0 +1,29 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Demo Speech and Translate Watson - Ill try D:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkNekoRin/DemoSpeech.git"
+  },
+  "author": "DarkNekoRin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkNekoRin/DemoSpeech/issues"
+  },
+  "homepage": "https://github.com/DarkNekoRin/DemoSpeech#readme",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.7",
+    "express": "*",
+    "express-validator": "^4.1.1",
+    "watson-developer-cloud": "*",
+    "ibm_db": "*",
+    "jade": "~1.11.0"
+  }
+}
+
